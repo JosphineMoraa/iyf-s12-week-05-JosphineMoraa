@@ -10,3 +10,7 @@
 .error {
   color: crimson;
 }
+.filters button.active {
+  background: #333;
+  color: white;
+}
