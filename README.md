@@ -5,7 +5,29 @@
 
 ## Project Description
 This repository contains all the required projects for Week 5, focused on learning JavaScript DOM manipulation. It includes the core DOM selection practice files (`dom-practice.html` & `dom.js`), a dedicated `daily-challenges/` folder with interactive mini-apps, and a fully functional dynamic To-Do List application built to assignment standards.
+# IYF Season 12 - Week 5: DOM Manipulation
 
+## Technologies Used
+- **HTML5**: Semantic layout and document structure
+- **CSS3**: Custom styling, layout design, and element state transitions
+- **JavaScript (ES6+)**: DOM manipulation, event delegation, and array data management
+- **GitHub Pages**: Live deployment and hosting
+
+## How to Run
+
+### 1. Run Live in Browser (Recommended)
+You can view and interact with the deployed application directly online:
+👉 **[Launch Live Demo](https://josphinemoraa.github.io/iyf-s12-week-05-JosphineMoraa/)**
+
+---
+
+### 2. Run Locally
+To inspect or run the source code on your local computer:
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/JosphineMoraa/iyf-s12-week-05-JosphineMoraa.git](https://github.com/JosphineMoraa/iyf-s12-week-05-JosphineMoraa.git)
+   
 ## Lessons Learned
 
 ### 1. Selecting and Changing Web Elements
@@ -24,3 +46,5 @@ This repository contains all the required projects for Week 5, focused on learni
 - **Data-First Thinking:** I learned to store all active tasks inside a JavaScript array first.
 - **Updating the Screen:** Whenever a task is added, checked off, or deleted, the JavaScript array updates first, and a custom function redraws the screen to match the new state.
 -
+[Contact Me](mailto:ondarajosphine@gmail.com)
+
