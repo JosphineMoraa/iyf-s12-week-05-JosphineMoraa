@@ -1,0 +1,46 @@
+// ==========================================
+// WEEK 5 — DAILY CHALLENGES
+// ==========================================
+
+// Challenge 1: Toggle Dark Mode
+function toggleDarkMode() {
+  document.body.classList.toggle('dark-mode');
+}
+
+// Challenge 2: Character Counter for Text Input
+const textInput = document.querySelector('#text-input');
+const charCount = document.querySelector('#char-count');
+if (textInput && charCount) {
+  textInput.addEventListener('input', (e) => {
+    charCount.textContent = e.target.value.length;
+  });
+}
+
+// Challenge 3: Simple Counter App
+let count = 0;
+const countDisplay = document.querySelector('#count');
+const incrementBtn = document.querySelector('#increment');
+if (incrementBtn) {
+  incrementBtn.addEventListener('click', () => {
+    count++;
+    countDisplay.textContent = count;
+  });
+}
+
+// Challenge 4: Show/Hide Password Toggle
+const passwordInput = document.querySelector('#password');
+const toggleBtn = document.querySelector('#toggle-password');
+if (toggleBtn) {
+  toggleBtn.addEventListener('click', () => {
+    const type = passwordInput.type === 'password' ? 'text' : 'password';
+    passwordInput.type = type;
+    toggleBtn.textContent = type === 'password' ? 'Show' : 'Hide';
+  });
+}
+
+// Challenge 5: Dynamic List Item Highlighter
+document.addEventListener('click', (e) => {
+  if (e.target.matches('.list-item')) {
+    e.target.classList.toggle('highlighted');
+  }
+});
