@@ -1,0 +1,12 @@
+.hidden {
+  display: none;
+}
+
+.completed span {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.error {
+  color: crimson;
+}
