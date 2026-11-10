@@ -33,7 +33,8 @@ To inspect or run the source code on your local computer:
 - **Finding Elements:** I learned how to use JavaScript to select specific elements on a webpage using commands like `querySelector` and `getElementById`.
 - **Changing Styles:** I learned how to dynamically change colors, modify classes, and update page elements when a user clicks or interacts with the site.
 
-### 2. Event Delegation
+### 2. Efficient Event Handling
+
 - **One Listener for Many Items:** Instead of attaching a separate click listener to every single list item, I attached one listener to the main parent container.
 - **Handling New Items:** This makes the code run faster and guarantees that any newly created tasks automatically respond to clicks without adding extra code.
 
@@ -45,5 +46,9 @@ To inspect or run the source code on your local computer:
 - **Data-First Thinking:** I learned to store all active tasks inside a JavaScript array first.
 - **Updating the Screen:** Whenever a task is added, checked off, or deleted, the JavaScript array updates first, and a custom function redraws the screen to match the new state.
 -
-[Contact Me](mailto:ondarajosphine@gmail.com)
+## Author and Contact
+Josphine Moraa
+Email:https://mail.google.com/mail/?view=cm&fs=1&to=ondarajosphine@gmail.com
+GitHub: @ JosphineMoraa
 
+Email:https://mail.google.com/mail/?view=cm&fs=1&to=ondarajosphine@gmail.com
