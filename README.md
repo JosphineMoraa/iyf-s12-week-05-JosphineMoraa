@@ -1,4 +1,4 @@
-# IYF Season 12 - Week 5: DOM Manipulation:Interactive To-Do List
+# Week 5: DOM Manipulation:Interactive To-Do List
 
 ## Live Demo
 - [View Live Project](https://josphinemoraa.github.io/iyf-s12-week-05-JosphineMoraa/
