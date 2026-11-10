@@ -1,7 +1,7 @@
 # IYF Season 12 - Week 5: DOM Manipulation
 
 ## Live Demo
-- [View Live Project](https://yourusername.github.io/iyf-s12-week-05-yourusername/)
+- [View Live Project](https://josphinemoraa.github.io/iyf-s12-week-05-JosphineMoraa/
 
 ## Project Description
 This repository contains all the required projects for Week 5, focused on learning JavaScript DOM manipulation. It includes the core DOM selection practice files (`dom-practice.html` & `dom.js`), a dedicated `daily-challenges/` folder with interactive mini-apps, and a fully functional dynamic To-Do List application built to assignment standards.
